@@ -13,7 +13,7 @@
             <![CDATA[ <ul> <li>修复MacOS 14以下的crash</li><li>修复部分UI操作时的crash</li><li>添加Firebase来统计Crash，不会收集其他信息</li><li>添加位置权限来获取Wi-Fi的SSID，如果没有用到SSID策略可以不允许此项权限</li><li>菜单栏样式调整</li><li>部分UI样式调整，适配MacOS 26</li><li>检测到配置文件证书无法解析后自动删除，后续自己在UI中</li><li>本次更新主要修复严重的Crash，功能性问题会尽快修复</li> </ul> ]]>
             </description>
             <pubDate>Sat, Aug 29 2025 16:21:23 +0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(23)/Loon_alpha_23.dmg" length="32171560" type="application/octet-stream" sparkle:edSignature="E3rWIgofM+elRn6hVGN7P3j3neN/Hc2lGRdS9Od0zb8G/a8iNZGBrEGhesm7gHxMvtFzj93DMoSM0swLzu0FCA=="/>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1/Loon_alpha_23.dmg" length="32171560" type="application/octet-stream" sparkle:edSignature="E3rWIgofM+elRn6hVGN7P3j3neN/Hc2lGRdS9Od0zb8G/a8iNZGBrEGhesm7gHxMvtFzj93DMoSM0swLzu0FCA=="/>
         </item>
     </channel>
 </rss>
