@@ -22,7 +22,8 @@ Loon集成了Firebase的Crash收集SDK，仅仅用来获取崩溃日志，便于
 ## 目前版本的Loon for Mac所需的权限
 ### 系统网络扩展
 Loon使用的是macOS System Extension，该扩展运行在系统内核栈，所以需要运行Loon使用系统扩展才可以启动Network Extension。在第一次启动VPN是会出现如下图所示的提示，这是需要**点击打开系统设置**进入系统设置页面运行Loon使用扩展即可。如果后续无法出现弹框，可在**系统设置-登录项-扩展-网络扩展**中找到。
-[img]()
+![System Extension](/Resource/sys_extension.jpg)
+![Network Extension](/Resource/network_extension.png)
 
 ### 访问本地网络权限
 用于局域网访问。
