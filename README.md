@@ -2,10 +2,12 @@
 Loon for Mac
 
 # 邀请测试阶段
-Loon已经完成了部分用户内测阶段，完成了基本的功能，但由于目前很多UI功能不够完善、BUG比较多，为了避免在使用过程中遇到异常影响正常的工作和生活，目前Loon for Mac暂时只接受申请测试的用户使用。
+Loon已经完成了部分用户内测阶段，完成了基本的功能，但由于目前很多UI功能不够完善、BUG比较多，为了避免在使用过程中遇到的异常，影响正常的工作和生活，目前Loon for Mac暂时只接受申请测试的用户使用。
 
 ## 申请测试方式
 更新到iOS端Loon 3.3.3(890)版本及以上版本，在Loon for Mac中获取测试码。
+
+![Active Code](/Resource/active_code.jpg)
 
 # Bug反馈
 
@@ -22,6 +24,7 @@ Loon集成了Firebase的Crash收集SDK，仅仅用来获取崩溃日志，便于
 ## 目前版本的Loon for Mac所需的权限
 ### 系统网络扩展
 Loon使用的是macOS System Extension，该扩展运行在系统内核栈，所以需要运行Loon使用系统扩展才可以启动Network Extension。在第一次启动VPN是会出现如下图所示的提示，这是需要**点击打开系统设置**进入系统设置页面运行Loon使用扩展即可。如果后续无法出现弹框，可在**系统设置-登录项-扩展-网络扩展**中找到。
+
 ![System Extension](/Resource/sys_extension.jpg)
 ![Network Extension](/Resource/network_extension.png)
 
