@@ -15,7 +15,7 @@ Loon集成了Firebase的Crash收集SDK，仅仅用来获取崩溃日志，便于
 ## 手动提交
 如果遇到阻塞问题或者其他用户体验问题：
 - 可以直接在本仓库提交issue
-- 可以在Loon的Telegram社区群内提交（https://t.me/Loon0x00）
+- 可以在Loon的[Telegram社区群](https://t.me/Loon0x00)提交
 
 # 隐私说明
 
