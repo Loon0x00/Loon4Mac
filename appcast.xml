@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.1(25)</sparkle:shortVersionString>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.1(26)</sparkle:shortVersionString>
             <description>
-            <![CDATA[ <ul> <li>修复MacOS 14以下的crash</li><li>修复部分UI操作时的Crash</li><li>添加Firebase来统计Crash，不会收集其他信息</li><li>添加位置权限来获取Wi-Fi的SSID，如果没有用到SSID策略可以不允许此项权限</li><li>菜单栏样式调整</li><li>部分UI样式调整，适配MacOS 26</li><li>检测到配置文件证书无法解析后自动删除，后续自己在UI中</li><li>修复添加编辑部分协议节点无法保存参数的bug</li><li>关闭Loon时自动后台运行，Docker栏不再显示图标</li> </ul> ]]>
+            <![CDATA[ <ul> <li>修复某些情况下安装证书crash的问题</li><li>部分UI适配</li> </ul> ]]>
             </description>
-            <pubDate>Sat, Aug 29 2025 18:07:34 +0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(25)/Loon_alpha_25.dmg" length="32193923" type="application/octet-stream" sparkle:edSignature="R8tqJzpveR5n1nOQLw/ad7gycILSFDwPl4cAHycznubN+AFhTkpDGIlokcXD+kdizPMCrbx2kUFCYS/lp92bCg=="/>
+            <pubDate>Mon, Sep 1 2025 16:48:21 +0000</pubDate>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(26)/Loon_alpha_26.dmg" length="32206177" type="application/octet-stream" sparkle:edSignature="Ch2qRT149cTUbWF1fqKNT9gLxeSbtRNy/Ym1xjwreUcf0Q1fl0/V9kopyA7gSuJnRWJGrG9xAntfp3FRBHkHBg=="/>
         </item>
     </channel>
 </rss>
