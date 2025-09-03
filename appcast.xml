@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.1(26)</sparkle:shortVersionString>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1(27)</sparkle:shortVersionString>
             <description>
-            <![CDATA[ <ul> <li>修复某些情况下安装证书crash的问题</li><li>部分UI适配</li> </ul> ]]>
+            <![CDATA[ <ul><li>修复更新时无法关闭app的问题</li><li>修复某些情况下安装丢失问题</li><li>配置文件和资源文件显示Loon扩展图标</li><li>现在可以直接使用Loon打开后缀为.conf和.lcf的配置文件</li><li>文件下载支持ETag</li><li>修复一些crash</li> </ul> ]]>
             </description>
             <pubDate>Mon, Sep 1 2025 16:48:21 +0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(26)/Loon_alpha_26.dmg" length="32206177" type="application/octet-stream" sparkle:edSignature="Ch2qRT149cTUbWF1fqKNT9gLxeSbtRNy/Ym1xjwreUcf0Q1fl0/V9kopyA7gSuJnRWJGrG9xAntfp3FRBHkHBg=="/>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(27)/Loon_alpha_27.dmg" length="33356556" type="application/octet-stream" sparkle:edSignature="I8o8XguKBlsPSkQkU/l7t+oeeLm960ZdEWIva4oMu6Hup5YNJh6rKzkRmGlAlu8zcWwhod3QHdm7GmqHxEXPCQ=="/>
         </item>
     </channel>
 </rss>
