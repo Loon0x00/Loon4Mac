@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.1(28)</sparkle:shortVersionString>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.1(29)</sparkle:shortVersionString>
             <description>
             <![CDATA[ <ul><li>添加更多页面</li><li>添加授权页面，可以详细集中查看授权情况</li><li>状态栏添加是否显示下载速度选项</li><li>修复SSID在Tunnel中无效的bug（需要定位授权）</li><li>修复一些crash</li> </ul> ]]>
             </description>
-            <pubDate>Mon Oct 13 2025 22:34:46 +0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(28)/Loon_alpha_28.dmg" length="33308379" type="application/octet-stream" sparkle:edSignature="J4sjDn40A5QWP8vf8/hQj95d5GuTjTJiDbFqBVTnGghBUPn+A5rqU5bbi+loyq0Vc2G8c3u9ZdQU+xL/1471DA=="/>
+            <pubDate>Mon Oct 13 2025 23:50:16 +0000</pubDate>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(29)/Loon_alpha_29.dmg" length="33303163" type="application/octet-stream" sparkle:edSignature="lEjJPaoQjf9oL1NgmbfnElBEYMJvpTXjd/yc5wafw3wgZiz/pDejLEeWCltBIHJQMqjJIONbBwGZPQjCfiu5Aw=="/>
         </item>
     </channel>
 </rss>
