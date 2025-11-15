@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.1(29)</sparkle:shortVersionString>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.1(32)</sparkle:shortVersionString>
             <description>
-            <![CDATA[ <ul><li>添加更多页面</li><li>添加授权页面，可以详细集中查看授权情况</li><li>状态栏添加是否显示下载速度选项</li><li>修复SSID在Tunnel中无效的bug（需要定位授权）</li><li>修复一些crash</li> </ul> ]]>
+            <![CDATA[ <ul><li>添加开机自启</li><li>添加设置系统代理，端口为配置文件中wifi共享的端口</li><li>调整状态栏图标大小</li><li>首页连接数量超过1000后转化为1k</li><li>修复一些crash</li> </ul> ]]>
             </description>
-            <pubDate>Mon Oct 13 2025 23:50:16 +0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(29)/Loon_alpha_29.dmg" length="33303163" type="application/octet-stream" sparkle:edSignature="lEjJPaoQjf9oL1NgmbfnElBEYMJvpTXjd/yc5wafw3wgZiz/pDejLEeWCltBIHJQMqjJIONbBwGZPQjCfiu5Aw=="/>
+            <pubDate>Fri Nov 14 2025 21:40:58+0000</pubDate>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(32)/Loon_alpha_32.dmg" length="33388352" type="application/octet-stream" sparkle:edSignature="xJQTEiafeQtZysvGC80WYLz8OlGqP4s6tNPPf+N+yCPlqEIpo7qGyvns/SHTSPNlaBWHBtk9U+CbYmBuZlyTAw=="/>
         </item>
     </channel>
 </rss>
