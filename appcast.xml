@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>0.1(32)</sparkle:shortVersionString>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.1(34)</sparkle:shortVersionString>
             <description>
-            <![CDATA[ <ul><li>添加开机自启</li><li>添加设置系统代理，端口为配置文件中wifi共享的端口</li><li>调整状态栏图标大小</li><li>首页连接数量超过1000后转化为1k</li><li>修复一些crash</li> </ul> ]]>
+            <![CDATA[ <ul><li>网络扩展未安装、未激活会给出明确提示</li><li>帮助程序安装失败修正，详见配置-更多-授权页面</li></ul> ]]>
             </description>
-            <pubDate>Fri Nov 14 2025 21:40:58+0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(32)/Loon_alpha_32.dmg" length="33388352" type="application/octet-stream" sparkle:edSignature="xJQTEiafeQtZysvGC80WYLz8OlGqP4s6tNPPf+N+yCPlqEIpo7qGyvns/SHTSPNlaBWHBtk9U+CbYmBuZlyTAw=="/>
+            <pubDate>Sat Dec 13 2025 22:33:43+0000</pubDate>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(34)/Loon_alpha_34.dmg" length="33405156" type="application/octet-stream" sparkle:edSignature="+4lr+ReHbRVyCWoSNTcfn+Tm7N42y7lC9BLPNZ8+RRzpD3BMt/MuqBzxsKW6YXWkqeGQ3qFefkUgjfKxQLCDAQ=="/>
         </item>
     </channel>
 </rss>
