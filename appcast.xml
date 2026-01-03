@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.1 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.1(39)</sparkle:shortVersionString>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.1(40)</sparkle:shortVersionString>
             <description>
             <![CDATA[ <ul><li>添加多配置文件切换，可以选择配置文件目录（推荐选择iCloud下的Loon目录，同步iOS配置）</li><li>新增安装帮助程序和配置系统网络扩展引导</li><li>更换文件目录到更为安全的路径</li><li>新增日志等级设置，自动删除超过7天的日志</li><li>重新绘制首页折线图，使用GPU渲染，支持60帧刷新</li><li>修复因为状态栏显示网速导致的CPU占用率高的bug</li><li>修复首页不显示插件和订阅脚本中的mitm、脚本、复写数量</li><li>同步最新内核</li><li>注意：本次更新更换了整个文件路径，所以之前下载的资源都不存在了，只有配置文件会自动copy到新的路径下。</li></ul> ]]>
             </description>
             <pubDate>Fri Jan 2 2026 22:38:19+0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(39)/Loon_alpha_39.dmg" length="33597556" type="application/octet-stream" sparkle:edSignature="SVzd5ORiHpuytaH9FBPgFF6NgRv2gn2B15LwBeFT63tRcFF4iTVZlvhkGmNa2fj2whgjJvirbEwb63KkC5gdAQ=="/>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(40)/Loon_alpha_40.dmg" length="33578741" type="application/octet-stream" sparkle:edSignature="k0JnPSF379PgfNhmlQa2+zfcpmjzLNASnOOBajvXFeMsgIeM8iytUDkmabKGCWl3nC2O37G/nZ0vEbdT0LAIBA=="/>
         </item>
     </channel>
 </rss>
