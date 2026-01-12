@@ -13,7 +13,7 @@
             <![CDATA[ <ul><li>新增请求记录页面</li><li>气球开关跟随流量模式切换不同颜色</li><li>背景色透明度减少</li><li>部分列表UI调整</li></ul> ]]>
             </description>
             <pubDate>Sun Jan 11 2026 17:11:52+0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.1(42)/Loon_alpha_42.dmg" length="33920811" type="application/octet-stream" sparkle:edSignature="x2EDaCoyifrboCMomVbbmtuRIK1kgZ/dZmFrPz1xdjSrG6BeiPnOEaDnj/+9YbzqpILkCPegiNZi/tVRgWrLDg=="/>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.2.0(51)/Loon_52_beta.dmg" length="33920811" type="application/octet-stream" sparkle:edSignature="x2EDaCoyifrboCMomVbbmtuRIK1kgZ/dZmFrPz1xdjSrG6BeiPnOEaDnj/+9YbzqpILkCPegiNZi/tVRgWrLDg=="/>
         </item>
     </channel>
 </rss>
