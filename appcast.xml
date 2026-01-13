@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.2.0 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>0.2.0(51)</sparkle:shortVersionString>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>0.2.0(52)</sparkle:shortVersionString>
             <description>
-            <![CDATA[ <ul><li>新增请求记录页面</li><li>气球开关跟随流量模式切换不同颜色</li><li>背景色透明度减少</li><li>部分列表UI调整</li></ul> ]]>
+            <![CDATA[ <ul><li>修复资源解析器无法使用bug</li><li>修复script中的http-client复用链接bug</li><li>调整请求记录页面显示记录的策略</li></ul> ]]>
             </description>
-            <pubDate>Sun Jan 11 2026 17:11:52+0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.2.0(51)/Loon_52_beta.dmg" length="33920811" type="application/octet-stream" sparkle:edSignature="x2EDaCoyifrboCMomVbbmtuRIK1kgZ/dZmFrPz1xdjSrG6BeiPnOEaDnj/+9YbzqpILkCPegiNZi/tVRgWrLDg=="/>
+            <pubDate>Mon Jan 12 2026 23:12:04+0000</pubDate>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.2.0(52)/Loon-0.2.0-beta-52.dmg" length="33906167" type="application/octet-stream" sparkle:edSignature="YpxvfJZ55DjMuPEvy74gLSmsA0TqBzCugsLYMx11AXL9TdMx7JiCzEiDzw5amyNdv4ljGcBG0oQsbq4RNfMSCQ=="/>
         </item>
     </channel>
 </rss>
