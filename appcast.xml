@@ -7,13 +7,13 @@
         <item>
             <title>Version 0.2.0 alpha</title>
             <link>https://nsloon.app</link>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>0.2.0(52)</sparkle:shortVersionString>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>0.2.0(57)</sparkle:shortVersionString>
             <description>
-            <![CDATA[ <ul><li>修复资源解析器无法使用bug</li><li>修复script中的http-client复用链接bug</li><li>调整请求记录页面显示记录的策略</li></ul> ]]>
+            <![CDATA[ <ul><li>修复x86_64编译问题</li><li>调整帮助程序</li><li>除去UI阴影，调整部分UI，部分文案优化</li>如果遇到无法选择节点、无法延迟测试的问题，请完全卸载后重新安装Loon<li></li></ul> ]]>
             </description>
             <pubDate>Mon Jan 12 2026 23:12:04+0000</pubDate>
-            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.2.0(52)/Loon-0.2.0-beta-52.dmg" length="33906167" type="application/octet-stream" sparkle:edSignature="YpxvfJZ55DjMuPEvy74gLSmsA0TqBzCugsLYMx11AXL9TdMx7JiCzEiDzw5amyNdv4ljGcBG0oQsbq4RNfMSCQ=="/>
+            <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.2.0(57)/Loon-0.2.0-beta-57.dmg" length="33996673" type="application/octet-stream" sparkle:edSignature="4O8lbRaKoQakvasYB0ztQHe7vCFSUfj8Y7iPXidAjS29iGJeVRXx0kqJ58cosxKSHB2A/MluFTQWfKF0Uu9WCQ=="/>
         </item>
     </channel>
 </rss>
