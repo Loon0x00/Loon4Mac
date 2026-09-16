@@ -8,6 +8,15 @@
 
     <!-- 发布新版本时，请将新的 item 插在这里，并保留下方的历史 item。 -->
     <item>
+      <title>Version 0.4.0 alpha (Build 991)</title><link>https://nsloon.app</link>
+      <sparkle:version>991</sparkle:version><sparkle:shortVersionString>0.4.0(991)</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html#build-991</sparkle:releaseNotesLink>
+      <sparkle:fullReleaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>macOS 构建号与 iOS 统一至 991，资源下载 User-Agent 新增 Platform/macOS 标识，提升订阅兼容性。</li><li>新增 $dns.query、Gzip 和 AES 加解密脚本 API，完善自定义代理协议支持。</li><li>优化插件、脚本、复写、规则及外部资源的更新状态和错误提示。</li><li>改进仪表页面的搜索输入、窗口缩放及请求、DNS、脚本页面布局。</li><li>菜单栏新增“打开仪表”入口，本地规则支持查看配置详情及删除。</li><li>添加节点页面新增 TLS 指纹选项，修复长文本输入及订阅筛选器布局问题。</li><li>优化策略组、节点延迟等界面交互，统一部分页面的 UI 风格。</li><li>修复 DoH 网络切换、HTTP/2 降级、QUIC 回退、DNS 响应及 IP 规则缓存等问题。</li></ul><ul><li>Loon for iOS 的 User-Agent：Loon/991 CFNetwork/3896.100.1.1.1 Darwin/27.0.0</li><li>Loon for macOS 的 User-Agent：Loon/991 CFNetwork/3896.100.1.1.1 Darwin/27.0.0 Platform/macOS</li></ul>]]></description>
+      <pubDate>Wed, 16 Sep 2026 14:09:08 -0000</pubDate>
+      <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.4.0(991)/Loon-0.4.0-beta-991.dmg" length="54797036" type="application/octet-stream" sparkle:edSignature="SWW4Tju4sSvNzCYEWzVwW5a1bThYce6FAcNkcOjOwvb4B9E2jc4CXs03V+FsEmMKpw915EKW5nW7uoBi5ayWDg=="/>
+    </item>
+    <item>
       <title>Version 0.4.0 alpha (Build 81)</title><link>https://nsloon.app</link>
       <sparkle:version>81</sparkle:version><sparkle:shortVersionString>0.4.0(81)</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html#build-81</sparkle:releaseNotesLink>
