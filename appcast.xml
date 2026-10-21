@@ -8,6 +8,15 @@
 
     <!-- 发布新版本时，请将新的 item 插在这里，并保留下方的历史 item。 -->
     <item>
+      <title>Version 0.5.0 alpha (Build 1009)</title><link>https://nsloon.app</link>
+      <sparkle:version>1009</sparkle:version><sparkle:shortVersionString>0.5.0(1009)</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html#build-1009</sparkle:releaseNotesLink>
+      <sparkle:fullReleaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>新增网关功能，具体功能和教程见：https://nsloon.app/blog/loon4mac-gateway</li><li>新增 DHCP 功能，具体功能和教程见：https://nsloon.app/blog/loon4mac-dhcp</li><li>优化进程规则，加入更多匹配方式，具体见：https://nsloon.app/docs/Rule/process_rule</li><li>性能优化，最新版本在m1 max macbook 上的回环测试为：单流上传12G，单流下载 14G，具体测试结果和测试方式见：https://nsloon.app/blog/loon4mac-tcp-performance</li><li>优化首页布局显示</li><li>合并最新版 iOS 功能</li></ul>]]></description>
+      <pubDate>Wed, 21 Oct 2026 02:10:38 -0000</pubDate>
+      <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.5.0(1009)/Loon-0.5.0-beta-1009.dmg" length="61875853" type="application/octet-stream" sparkle:edSignature="f4DPImIg2Ep/oEqLnYXuQix2WdFGG1RP6hWe9ZrO2g8ZzPqAmM/oVYTTUU3vDAdCUfc5QHoUPAt8BdWabNxQDg=="/>
+    </item>
+    <item>
       <title>Version 0.4.0 alpha (Build 991)</title><link>https://nsloon.app</link>
       <sparkle:version>991</sparkle:version><sparkle:shortVersionString>0.4.0(991)</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html#build-991</sparkle:releaseNotesLink>
