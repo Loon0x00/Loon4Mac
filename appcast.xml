@@ -8,6 +8,15 @@
 
     <!-- 发布新版本时，请将新的 item 插在这里，并保留下方的历史 item。 -->
     <item>
+      <title>Version 0.5.0 alpha (Build 1011)</title><link>https://nsloon.app</link>
+      <sparkle:version>1011</sparkle:version><sparkle:shortVersionString>0.5.0(1011)</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html#build-1011</sparkle:releaseNotesLink>
+      <sparkle:fullReleaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>修复未开启 DHCP 导致网关劫持 DNS 劫持异常的 bug</li><li>优化证书管理</li><li>同步 iOS bug 修复</li></ul>]]></description>
+      <pubDate>Wed, 28 Oct 2026 15:02:24 -0000</pubDate>
+      <enclosure url="https://github.com/Loon0x00/Loon4Mac/releases/download/0.5.0(1011)/Loon-0.5.0-beta-1011.dmg" length="62216646" type="application/octet-stream" sparkle:edSignature="b0OMcSeghPS0Aohl+XZ9JJ//YT+djL64/MBMWEA8W0lKl00nklSWctsgAQjO1T9l3ZjdXzHEe9rbs85eALD6Aw=="/>
+    </item>
+    <item>
       <title>Version 0.5.0 alpha (Build 1009)</title><link>https://nsloon.app</link>
       <sparkle:version>1009</sparkle:version><sparkle:shortVersionString>0.5.0(1009)</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>https://nsloon.app/Loon4Mac/changelog.html#build-1009</sparkle:releaseNotesLink>
